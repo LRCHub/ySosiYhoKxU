@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Collide",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-12T15:24:08.297278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When Girls Collide",
+      "artist": "múm",
+      "has_synced": true,
+      "path": "select/01_When_Girls_Collide_múm.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hearts Collide",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/02_Hearts_Collide_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Collide",
+      "artist": "Beat Happening",
+      "has_synced": false,
+      "path": "select/03_Collide_Beat_Happening.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When Worlds Collide",
+      "artist": "Zara Larsson",
+      "has_synced": false,
+      "path": "select/04_When_Worlds_Collide_Zara_Larsson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When Stars Collide",
+      "artist": "Michael Oakley",
+      "has_synced": true,
+      "path": "select/05_When_Stars_Collide_Michael_Oakley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stars Collide",
+      "artist": "Transister",
+      "has_synced": false,
+      "path": "select/06_Stars_Collide_Transister.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two Hearts Collide",
+      "artist": "Level 42",
+      "has_synced": true,
+      "path": "select/07_Two_Hearts_Collide_Level_42.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When Love & Hate Collide (Live)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/08_When_Love_&_Hate_Collide_(Live)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When Love & Hate Collide",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/09_When_Love_&_Hate_Collide_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When Love and Hate Collide",
+      "artist": "Def Leppard",
+      "has_synced": true,
+      "path": "select/10_When_Love_and_Hate_Collide_Def_Leppard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When Two Worlds Collide",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/11_When_Two_Worlds_Collide_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When Universes Collide",
+      "artist": "Gogol Bordello",
+      "has_synced": false,
+      "path": "select/12_When_Universes_Collide_Gogol_Bordello.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When Two Worlds Collide",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/13_When_Two_Worlds_Collide_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Collide",
+      "artist": "End of the Dream",
+      "has_synced": true,
+      "path": "select/14_Collide_End_of_the_Dream.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Collide",
+      "artist": "Stream of Passion",
+      "has_synced": true,
+      "path": "select/15_Collide_Stream_of_Passion.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Where Oceans Collide",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/16_Where_Oceans_Collide_Edenbridge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Collide",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_Collide_UVERworld.txt"
+    }
+  ]
+}
